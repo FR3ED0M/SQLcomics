@@ -1,0 +1,3 @@
+COLUMN title FORMAT a20;
+
+COLUMN cPrice FORMAT a20;

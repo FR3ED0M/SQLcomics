@@ -1,0 +1,7 @@
+CREATE TABLE Exp1 (
+	iNum varchar(5),
+	pub varchar(12),
+	title varchar(255),
+	cDate varchar(10),
+	cPrice varchar(4)		
+);

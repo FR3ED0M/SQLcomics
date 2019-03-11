@@ -1,0 +1,8 @@
+INSERT INTO Exp1 
+VALUES ('03', 'Marvel', 'Slaughterday', 'MAR-1986', '1.25');
+
+INSERT INTO Exp1
+VALUES ('04','Marvel','Final Solution','APR-1986','1.25');
+
+INSERT INTO Exp1
+VALUES ('05','Marvel','Final Solution PT.2','MAY-1986','1.25');
